@@ -1,0 +1,15 @@
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\bin\Debug\net6.0\Draft0001 25-28Nov.exe
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\bin\Debug\net6.0\Draft0001 25-28Nov.deps.json
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\bin\Debug\net6.0\Draft0001 25-28Nov.runtimeconfig.json
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\bin\Debug\net6.0\Draft0001 25-28Nov.dll
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\bin\Debug\net6.0\Draft0001 25-28Nov.pdb
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\obj\Debug\net6.0\Draft0001 25-28Nov.csproj.AssemblyReference.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\obj\Debug\net6.0\Draft0001 25-28Nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\obj\Debug\net6.0\Draft0001 25-28Nov.AssemblyInfoInputs.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\obj\Debug\net6.0\Draft0001 25-28Nov.AssemblyInfo.cs
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\obj\Debug\net6.0\Draft0001 25-28Nov.csproj.CoreCompileInputs.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\obj\Debug\net6.0\Draft0001 25-28Nov.dll
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\obj\Debug\net6.0\refint\Draft0001 25-28Nov.dll
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\obj\Debug\net6.0\Draft0001 25-28Nov.pdb
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\obj\Debug\net6.0\Draft0001 25-28Nov.genruntimeconfig.cache
+C:\Users\Ali\OneDrive - Baku State University\Desktop\Draft0001 25-28Nov\obj\Debug\net6.0\ref\Draft0001 25-28Nov.dll
